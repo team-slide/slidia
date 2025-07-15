@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slidia-market>
+  <app>
+    <name>Rockbox</name>
+    <github_repo>rockbox-y1/rockbox</github_repo>
+    <latest_release_url>https://api.github.com/repos/rockbox-y1/rockbox/releases/latest</latest_release_url>
+    <installed_version></installed_version>
+    <installed_build_time></installed_build_time>
+    <description>Open-source music player for Y1, with advanced features and themes.</description>
+  </app>
+  <!-- Add more apps here in the future -->
+</slidia-market> 
