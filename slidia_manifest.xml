@@ -3,7 +3,7 @@
   <!-- App Market: APKs -->
   <package name="Rockbox" repo="rockbox-y1/rockbox" url="https://github.com/rockbox-y1/rockbox/releases/latest" type="apk" handler="App" />
   <!-- Custom Firmware: Project Gallagher -->
-  <package name="Project Gallagher ROM" repo="team-slide/project-gallagher" url="https://github.com/team-slide/project-gallagher/releases/latest" type="img" handler="Custom Firmware" />
+  <package name="Multiwirth's Chainfire Rooted ROM" repo="multiwirth/Innioasis_Y1_system_dumps" url="https://github.com/multiwirth/Innioasis_Y1_system_dumps/releases/latest" type="img" handler="Custom Firmware" />
   <!-- Y1 Helper Tool -->
   <package name="Y1 Helper" repo="team-slide/Y1-helper" url="https://github.com/team-slide/Y1-helper/releases/latest" type="exe" handler="PC Software" />
     <!-- Stock Firmware Package -->
