@@ -9,6 +9,4 @@
     <!-- Stock Firmware Package -->
 <package name="Project Gallagher Core with Rockbox" repo="team-slide/project-gallagher" url="https://github.com/team-slide/project-gallagher/releases/latest" type="img" handler="Custom Firmware" />
     <package name="2.1.9 Stock ROM" repo="team-slide/y1-stock-rom" url="https://github.com/team-slide/y1-stock-rom/releases/latest" type="img" handler="Firmware" />
-
-  https://github.com/team-slide/y1-stock-rom/releases
 </slidia>
