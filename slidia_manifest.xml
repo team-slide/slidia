@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <slidia>
   <!-- App Market: APKs -->
-  <package name="Rockbox" repo="rockbox-y1/rockbox" url="https://github.com/rockbox-y1/rockbox/releases/latest" type="apk" handler="App" />
+ <-- <package name="Rockbox" repo="rockbox-y1/rockbox" url="https://github.com/rockbox-y1/rockbox/releases/latest" type="apk" handler="App" /> -->
   <!-- Custom Firmware: Project Gallagher -->
   <package name="Install Original Software 2.1.9 and Enable Y1 Helper" repo="team-slide/y1-stock-rom" url="https://github.com/team-slide/y1-stock-rom/releases/latest" type="img" handler="Firmware" />
   <package name="Install Project Gallagher Core with Rockbox - 0.0.1" repo="team-slide/project-gallagher" url="https://github.com/team-slide/project-gallagher/releases/latest" type="img" handler="Custom Firmware" />
