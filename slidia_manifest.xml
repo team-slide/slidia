@@ -5,8 +5,8 @@
   <!-- Custom Firmware: Project Gallagher -->
 
   
-  <package name="Install Original Software 2.1.9 and Enable Y1 Helper" repo="team-slide/y1-stock-rom" device="Y1" url="https://github.com/team-slide/y1-stock-rom/releases/latest" type="img" handler="Custom Firmware" />
-<package name="Install Rockbox ROM - Use instead of Project Gallagher" repo="multiwirth/Innioasis_Y1_system_dumps" device="Y1" url="https://github.com/multiwirth/Innioasis_Y1_system_dumps/releases/latest" type="img" handler="Custom Firmware" /> 
+  <package name="Install Original Software 2.1.9 for Type A Y1's" repo="team-slide/y1-stock-rom" device="Y1" url="https://github.com/team-slide/y1-stock-rom/releases/latest" type="img" handler="Custom Firmware" />
+<package name="Install Rockbox ROM For Type A Y1's" repo="multiwirth/Innioasis_Y1_system_dumps" device="Y1" url="https://github.com/multiwirth/Innioasis_Y1_system_dumps/releases/latest" type="img" handler="Custom Firmware" /> 
   
   <!--  <package name="Install Project Gallagher Core with Rockbox - 0.0.1" repo="team-slide/project-gallagher" url="https://github.com/team-slide/project-gallagher/releases/latest" type="img" handler="Custom Firmware" /> -->
 <!--  <package name="Install ATA Engineering Firmware - 20250801" repo="team-slide/y1-ata-rom" url="https://github.com/team-slide/y1-ata-rom/releases/latest" type="img" handler="Custom Firmware" /> -->
