@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <slidia>
   <!-- App Market: APKs -->
- <!-- <package name="Rockbox" repo="rockbox-y1/rockbox" url="https://github.com/rockbox-y1/rockbox/releases/latest" android_package="org.rockbox" device="y1" type="apk" handler="App" /> -->
+ <package name="Stock Menu 2.1.9 for Type B Y1's" repo="rockbox-y1/rockbox" url="https://github.com/team-slide/com.innioasis.y1/releases/latest" android_package="org.rockbox" device="y1" type="apk" handler="App" />
   <!-- Custom Firmware: Project Gallagher -->
 
   
