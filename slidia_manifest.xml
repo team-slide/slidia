@@ -7,7 +7,7 @@
 <package name="Install Original Software 2.1.9 for Type A Y1's" device_type="A" repo="team-slide/y1-stock-rom" device="Y1" url="https://github.com/team-slide/y1-stock-rom/releases/latest" type="img" handler="Custom Firmware" />
 <package name="Install Rockbox ROM For Type A Y1's" device_type="A" repo="multiwirth/Innioasis_Y1_system_dumps" device="Y1" url="https://github.com/multiwirth/Innioasis_Y1_system_dumps/releases/latest" type="img" handler="Custom Firmware" />
 <package name="Install Original Software 1.7.6 for Type B Y1's" device_type="B" repo="team-slide/y1-stock-rom-type-b" device="Y1" url="https://github.com/team-slide/y1-stock-rom-type-b/releases/latest" type="img" handler="Custom Firmware" />
-<package name="Install Rockbox ROM for Type B Y1's" device_type="B" repo="team-slide/type-b-rockbox-rom" device="Y1" url="https://github.com/team-slide/type-b-rockbox-rom/releases/latest" type="img" handler="Custom Firmware" />
+<package name="Install Rockbox ROM for Type B Y1's" device_type="B" repo="multiwirth/Innioasis_Y1_system_dumps_type_b" device="Y1" url="https://github.com/team-slide/type-b-rockbox-rom/releases/latest" type="img" handler="Custom Firmware" />
   <!--  <package name="Install Project Gallagher Core with Rockbox - 0.0.1" repo="team-slide/project-gallagher" url="https://github.com/team-slide/project-gallagher/releases/latest" type="img" handler="Custom Firmware" /> -->
 <!--  <package name="Install ATA Engineering Firmware - 20250801" repo="team-slide/y1-ata-rom" url="https://github.com/team-slide/y1-ata-rom/releases/latest" type="img" handler="Custom Firmware" /> -->
   <!-- <package name="Y1 Helper" repo="team-slide/Y1-helper" url="https://github.com/team-slide/Y1-helper/releases/latest" type="exe" handler="PC Software" /> -->
